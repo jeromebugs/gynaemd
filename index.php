@@ -100,7 +100,7 @@
 				<div class="page-content">
 					<div class="custom-title">About Us</div>
 					<img class="alignleft" src="<?php echo homepage_url() ?>dist/images/about-us-thumb.png">
-					<p>We are a specialist clinic located at #04-03A Camden Medical Centre, 1 Orchard Boulevard (www.GynaeMD.com.sg) run by Dr Christopher Ng. We integrate obstetric, gynaecology and aesthetic services in a warm, compassionate and caring environment. We believe in empowering our patients with knowledge of advancements in medical care so that they are able to participate in making informed decisions in achieving their overall well-being.  Read more</p>
+					<p>We are a specialist clinic located at #04-03A Camden Medical Centre, 1 Orchard Boulevard (www.GynaeMD.com.sg) run by Gynaecologist, Dr Christopher Ng. We integrate obstetric, gynaecology and aesthetic services in a warm, compassionate and caring environment. We believe in empowering our patients with knowledge of advancements in medical care so that they are able to participate in making informed decisions in achieving their overall well-being.  Read more</p>
 					<br>
 					<div class="custom-title">Our Doctor</div>
 					<img class="alignleft" src="<?php echo homepage_url() ?>dist/images/our-doctor-thumb.png">
